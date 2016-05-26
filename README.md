@@ -40,7 +40,7 @@ var overlays = [
 						});
 					}
 				}
-			};
+			];
 
 			var map = new L.Map(container, options);
 			map.addControl(new L.Control.AjaxGeoJSONLayers(overlays, {position: 'topleft', collapsed: false}));
