@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-ajax-layers",
+  "version": "1.0.0",
+  "description": "A Leaflet Layer that dynamically loads GeoJSON data from Ajax, with caching",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mohsentaleb/leaflet-ajax-layers.git"
+  },
+  "author": {
+    "name": "Mohsen Taleb",
+    "email": "mohsentaleb@gmail.com",
+    "url": "http://www.mohsentaleb.com/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gis",
+    "geojson",
+    "ajax",
+    "map",
+    "leaflet"
+  ]
+}
